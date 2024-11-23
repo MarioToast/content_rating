@@ -9,7 +9,7 @@ class ContentRating extends Component {
   render() {
     return (
      <>
-     <h1>Text Content Rating</h1>
+     <h1>Text Content Rating, test test???</h1>
      </>
     );
   }
